@@ -1,0 +1,7 @@
+{
+  "name": "Cicero Diksiyon Akademisi",
+  "description": "Cicero Diksiyon Kalemi ile entegre, yapay zeka destekli profesyonel diksiyon ve artikülasyon eğitim platformu. Fonetik analiz, sesli koçluk ve interaktif tekerleme egzersizleri içerir.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
